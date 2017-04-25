@@ -43,7 +43,7 @@ angular.module('zmApp', [
         minEventServerVersion: '0.9',
         castAppId: 'BA30FB4C',
         alarmFlashTimer: 20000, // time to flash alarm
-        gcmSenderId: '710936220256',
+        gcmSenderId: '639048894538',
         httpTimeout: 15000,
         largeHttpTimeout: 60000,
         logFile: 'zmNinjaLog.txt',
